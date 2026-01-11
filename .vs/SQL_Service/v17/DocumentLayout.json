@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\data\\HomeWork\\SQL_Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|C:\\data\\HomeWork\\SQL_Service\\sql_web_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|C:\\data\\HomeWork\\SQL_Service\\sql_web_api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|C:\\data\\HomeWork\\SQL_Service\\sql_web_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\services\\sql_web_api.sqlserverdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\services\\sql_web_api.sqlserverdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\services\\sql_web_api.idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\services\\sql_web_api.idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\services\\sql_web_api.loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\services\\sql_web_api.loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\services\\sql_web_api.iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\services\\sql_web_api.iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|C:\\data\\HomeWork\\SQL_Service\\sql_web_api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|C:\\data\\HomeWork\\SQL_Service\\sql_web_api\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|c:\\data\\homework\\sql_service\\sql_web_api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB54DDAA-91CB-4631-9106-55FCBB367347}|SQL_Web_Api\\SQL_Web_Api.csproj|solutionrelative:sql_web_api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +58,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Web.config",
-              "RelativeDocumentMoniker": "SQL_Web_Api\\Web.config",
-              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Web.config",
-              "RelativeToolTip": "SQL_Web_Api\\Web.config",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SQL_Web_Api.LoggerService.cs",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.LoggerService.cs",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\Services\\SQL_Web_Api.LoggerService.cs",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.LoggerService.cs",
+              "RelativeToolTip": "SQL_Web_Api\\Services\\SQL_Web_Api.LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:51:49.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQL_Web_Api.ILoggerService.cs",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.ILoggerService.cs",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\Services\\SQL_Web_Api.ILoggerService.cs",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.ILoggerService.cs",
+              "RelativeToolTip": "SQL_Web_Api\\Services\\SQL_Web_Api.ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:50:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\log4net.config",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\log4net.config",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\log4net.config",
+              "RelativeToolTip": "SQL_Web_Api\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-09T21:27:53.871Z",
+              "WhenOpened": "2026-01-11T12:46:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQL_Web_Api.SqlServerDatabaseService.cs",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.SqlServerDatabaseService.cs",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\Services\\SQL_Web_Api.SqlServerDatabaseService.cs",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.SqlServerDatabaseService.cs",
+              "RelativeToolTip": "SQL_Web_Api\\Services\\SQL_Web_Api.SqlServerDatabaseService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:22:53.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SQL_Web_Api.IDatabaseService.cs",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.IDatabaseService.cs",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\Services\\SQL_Web_Api.IDatabaseService.cs",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Services\\SQL_Web_Api.IDatabaseService.cs",
+              "RelativeToolTip": "SQL_Web_Api\\Services\\SQL_Web_Api.IDatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:22:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Web.config",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\Web.config",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Web.config",
+              "RelativeToolTip": "SQL_Web_Api\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-11T09:02:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SQL_Web_Api\\Global.asax.cs",
+              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Global.asax.cs",
+              "RelativeToolTip": "SQL_Web_Api\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:33:42.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SwaggerConfig.cs",
               "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\App_Start\\SwaggerConfig.cs",
               "RelativeDocumentMoniker": "SQL_Web_Api\\App_Start\\SwaggerConfig.cs",
@@ -64,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DatabaseController.cs",
               "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Controllers\\DatabaseController.cs",
               "RelativeDocumentMoniker": "SQL_Web_Api\\Controllers\\DatabaseController.cs",
@@ -77,28 +175,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "SQL_Web_Api\\App_Start\\WebApiConfig.cs",
               "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "SQL_Web_Api\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBMAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T19:48:33.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Global.asax.cs",
-              "RelativeDocumentMoniker": "SQL_Web_Api\\Global.asax.cs",
-              "ToolTip": "C:\\data\\HomeWork\\SQL_Service\\SQL_Web_Api\\Global.asax.cs",
-              "RelativeToolTip": "SQL_Web_Api\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T16:33:42.944Z",
               "EditorCaption": ""
             }
           ]

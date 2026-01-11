@@ -80,3 +80,6 @@ C:\data\HomeWork\SQL_Service\SQL_Web_Api\obj\Debug\SQL_Web_Api.csproj.CoreCompil
 C:\data\HomeWork\SQL_Service\SQL_Web_Api\obj\Debug\SQL_Web_.07C09FD6.Up2Date
 C:\data\HomeWork\SQL_Service\SQL_Web_Api\obj\Debug\SQL_Web_Api.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api\obj\Debug\SQL_Web_Api.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\log4net.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\log4net.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\log4net.xml
