@@ -17,13 +17,7 @@ namespace SQL_Client
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-
-            var databaseService = new DatabaseService();
-            var mainForm = new MainForm();
-            var presenter = new MainPresenter(mainForm, databaseService);
-
-            
+            Application.SetCompatibleTextRenderingDefault(false);           
             Application.Run(new MainForm());
         }
     }

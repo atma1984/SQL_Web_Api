@@ -1,4 +1,5 @@
-﻿using System.Web.Http;
+﻿using System;
+using System.Web.Http;
 using SQL_Web_Api.Services;
 
 
@@ -19,24 +20,56 @@ namespace SQL_Web_Api.Controllers
         [Route("connect")]
         public IHttpActionResult Connect([FromBody] string connectionString)
         {
-            var connect_data = _databaseService.Connect(connectionString);
-            return Ok(connect_data);
+            //var connect_data = _databaseService.Connect(connectionString);
+            //return Ok(connect_data);
+
+
+            bool isConnected = _databaseService.Connect(connectionString);
+
+            if (isConnected)
+            {
+                return Ok("Успешное подключение к базе данных.");
+            }
+            else
+            {
+                return InternalServerError(new Exception("Не удалось подключиться к базе данных."));
+            }
         }
 
         [HttpGet]
         [Route("version")]
         public IHttpActionResult Version()
         {
-            var version = _databaseService.GetVersion();
-            return Ok(version);
+            try
+            {
+                var version = _databaseService.GetVersion();
+                if (version.StartsWith("Ошибка"))
+                {
+                    return InternalServerError(new Exception(version));
+                }
+
+                return Ok(version);
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
         [HttpPost]
         [Route("disconnect")]
         public IHttpActionResult Disconnect()
         {
-            var disconnect_data = _databaseService.Disconnect();
-            return Ok(disconnect_data);
+            bool isDisconnected = _databaseService.Disconnect();
+
+            if (isDisconnected)
+            {
+                return Ok("Соединение с базой данных закрыто.");
+            }
+            else
+            {
+                return BadRequest("Нет активного соединения для закрытия.");
+            }
         }
 
     }

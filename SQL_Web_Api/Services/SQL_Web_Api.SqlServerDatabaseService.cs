@@ -12,7 +12,7 @@ namespace SQL_Web_Api.Services
         {
             _logger = logger;
         }
-        public string Connect(string connectionString)
+        public bool Connect(string connectionString)
         {
             try
             {
@@ -22,16 +22,16 @@ namespace SQL_Web_Api.Services
                 _connection.Open();
 
                 _logger.LogInfo("Успешное подключение к базе данных.");
-                return "Успешное подключение к базе данных.";
+                return true;
             }
             catch (Exception ex)
             {
                 _logger.LogError("Ошибка при подключении к базе данных. "+ex.Message);
-                return "Ошибка при подключении к базе данных.";
+                return false;
             }
         }
 
-        public string Disconnect()
+        public bool Disconnect()
         {
             try
             {
@@ -40,19 +40,19 @@ namespace SQL_Web_Api.Services
                     _connection.Close();
                     _connection = null;
                     _logger.LogInfo("Соединение с базой данных закрыто.");
-                    return "Соединение с базой данных закрыто.";
+                    return true;
                 }
                 else
                 {
                     _logger.LogWarning("Попытка закрытия соединения с уже закрытой или неинициализированной базой данных.");
-                    return "Попытка закрытия соединения с уже закрытой или неинициализированной базой данных.";
+                    return false;
                 }
                
             }
             catch (Exception ex)
             {
                 _logger.LogError("Ошибка при разрыве соединения с базой данных."+ex.Message);
-                 return "Ошибка при разрыве соединения с базой данных.";
+                return false;
             }
         }
 

@@ -1,0 +1,56 @@
+# Windows Forms, Web API, .NET Core, .NET Framework
+
+# Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]ebug/
+[Dd]ebugPortable/
+[Dd]ebugX64/
+[Dd]ebugX86/
+[Dd]ist/
+[Dd]eploy/
+obj/
+bin/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files (Windows)
+Thumbs.db
+Desktop.ini
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directories
+bin/
+obj/
+
+# Windows specific
+*.log
+*.vspscc
+*.vssscc
+
+# Rider (JetBrains)
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows image files
+*.bak
+*.swp
+*.tmp
