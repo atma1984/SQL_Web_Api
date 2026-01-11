@@ -8,22 +8,26 @@ namespace SQL_Web_Api.Controllers
     [RoutePrefix("api/database")]
     public class DatabaseController : ApiController
     {
-   
-        private static IDatabaseService _db = new SqlServerDatabaseService();
+        private readonly IDatabaseService _databaseService;
+
+        public DatabaseController(IDatabaseService databaseService)
+        {
+            _databaseService = databaseService;
+        }
 
         [HttpPost]
         [Route("connect")]
         public IHttpActionResult Connect([FromBody] string connectionString)
         {
-            _db.Connect(connectionString);
-            return Ok("Connected");
+            var connect_data = _databaseService.Connect(connectionString);
+            return Ok(connect_data);
         }
 
         [HttpGet]
         [Route("version")]
         public IHttpActionResult Version()
         {
-            var version = _db.GetVersion();
+            var version = _databaseService.GetVersion();
             return Ok(version);
         }
 
@@ -31,8 +35,8 @@ namespace SQL_Web_Api.Controllers
         [Route("disconnect")]
         public IHttpActionResult Disconnect()
         {
-            _db.Disconnect();
-            return Ok("Disconnected");
+            var disconnect_data = _databaseService.Disconnect();
+            return Ok(disconnect_data);
         }
 
     }

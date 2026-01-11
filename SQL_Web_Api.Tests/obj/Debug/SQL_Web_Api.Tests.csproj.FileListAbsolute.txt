@@ -7,11 +7,9 @@ C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\SQL_Web_Api.Tests.pdb
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\SQL_Web_Api.dll
-C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\WebActivatorEx.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Swashbuckle.Core.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\System.Web.Http.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
-C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Newtonsoft.Json.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\System.Net.Http.Formatting.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\SQL_Web_Api.pdb
@@ -27,3 +25,13 @@ C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\obj\Debug\SQL_Web_Api.Tests.cspro
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\obj\Debug\SQL_Web_.ED281E33.Up2Date
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\obj\Debug\SQL_Web_Api.Tests.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\obj\Debug\SQL_Web_Api.Tests.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\log4net.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Unity.Container.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Unity.WebApi.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Unity.Abstractions.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\log4net.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\log4net.xml
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Unity.Container.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\Unity.Abstractions.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

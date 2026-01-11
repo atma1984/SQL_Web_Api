@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SQL_Web_Api.Services
 {
-    internal interface ILoggerService
+    public interface ILoggerService
     {
         void LogInfo(string message);
         void LogError(string message);

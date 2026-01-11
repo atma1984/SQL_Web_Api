@@ -1,0 +1,38 @@
+
+2026-01-11 18:15:39,565 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:15:47,637 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:24:30,570 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:24:32,603 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:25:13,464 [7] WARN  SQL_Web_Api.Services.SqlServerDatabaseService - Нет активного соединения с базой данных.
+2026-01-11 18:25:13,549 [7] ERROR SQL_Web_Api.Services.SqlServerDatabaseService - Ошибка при получении версии базы данных.
+2026-01-11 18:33:49,207 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:33:50,503 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:34:24,419 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Получена версия базы данных: Microsoft SQL Server 2022 (RTM-GDR) (KB5068407) - 16.0.1160.1 (X64) 
+	Oct  3 2025 18:06:58 
+	Copyright (C) 2022 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 19045: ) (Hypervisor)
+
+2026-01-11 18:34:49,265 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Получена версия базы данных: Microsoft SQL Server 2022 (RTM-GDR) (KB5068407) - 16.0.1160.1 (X64) 
+	Oct  3 2025 18:06:58 
+	Copyright (C) 2022 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 19045: ) (Hypervisor)
+
+2026-01-11 18:35:13,612 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:35:20,914 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:35:41,876 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Соединение с базой данных закрыто.
+2026-01-11 18:36:07,611 [9] WARN  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка закрытия соединения с уже закрытой или неинициализированной базой данных.
+2026-01-11 18:36:39,826 [5] WARN  SQL_Web_Api.Services.SqlServerDatabaseService - Нет активного соединения с базой данных.
+2026-01-11 18:36:47,813 [5] ERROR SQL_Web_Api.Services.SqlServerDatabaseService - Ошибка при получении версии базы данных.
+2026-01-11 18:47:08,256 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:47:12,614 [5] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:53:48,494 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:53:51,082 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:54:13,639 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка подключения к базе данных...
+2026-01-11 18:57:06,014 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Успешное подключение к базе данных.
+2026-01-11 18:57:19,169 [7] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Получена версия Microsoft SQL Server
+2026-01-11 18:57:26,131 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Получена версия Microsoft SQL Server
+2026-01-11 18:57:41,793 [6] INFO  SQL_Web_Api.Services.SqlServerDatabaseService - Соединение с базой данных закрыто.
+2026-01-11 18:57:50,228 [6] WARN  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка закрытия соединения с уже закрытой или неинициализированной базой данных.
+2026-01-11 18:57:55,473 [7] WARN  SQL_Web_Api.Services.SqlServerDatabaseService - Попытка закрытия соединения с уже закрытой или неинициализированной базой данных.
+2026-01-11 18:58:06,704 [6] WARN  SQL_Web_Api.Services.SqlServerDatabaseService - Нет активного соединения с базой данных.
+2026-01-11 18:58:06,813 [6] ERROR SQL_Web_Api.Services.SqlServerDatabaseService - Ошибка при получении версии базы данных.

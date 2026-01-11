@@ -8,8 +8,8 @@ namespace SQL_Web_Api.Services
 {
     public interface IDatabaseService
     {
-        void Connect(string connectionString);
+        string Connect(string connectionString);
         string GetVersion();
-        void Disconnect();
+        string Disconnect();
     }
 }

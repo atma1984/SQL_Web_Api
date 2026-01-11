@@ -83,3 +83,10 @@ C:\data\HomeWork\SQL_Service\SQL_Web_Api\obj\Debug\SQL_Web_Api.pdb
 C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\log4net.dll
 C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\log4net.pdb
 C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\log4net.xml
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\Unity.Abstractions.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\Unity.Container.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\Unity.WebApi.dll
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\Unity.Abstractions.pdb
+C:\data\HomeWork\SQL_Service\SQL_Web_Api\bin\Unity.Container.pdb
